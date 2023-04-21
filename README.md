@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi my name is Adrian! I'm a 21 years old software developer student based on Davao City Philippines, im a person who loves to explore new things i don't wanna be stagnant in life. if i want something i work hard to get those things.
+Hi my name is Adrian! I'm a 22 years old Web developer student based on Davao City Philippines, im a person who loves to explore new things i don't wanna be stagnant in life. if i want something i work hard to get those things.
 
 Here are some ideas to get you started:
 
