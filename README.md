@@ -44,9 +44,9 @@ Hi my name is Adrian! I'm a 26 years old FullStack Developer, im a person who lo
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:acinchez@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
+  <a href="mailto:cinchezadrian@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
   <a href="https://github.com/ACinchez"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
-  <a href="[https://www.linkedin.com/in/adrian-cinchez](https://www.linkedin.com/in/adrian-cinchez-32ba90219/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/adrian-cinchez-32ba90219/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
   <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="Facebook"/></a>
   <a href="https://adriancinchez.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/domain.png" height="40" alt="Portfolio"/></a>
 </p>
