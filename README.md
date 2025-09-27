@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi my name is Adrian! I'm a 26 years old FullStack Developer, im a person who loves to explore new things i don't wanna be stagnant in life. if i want something i work hard to get those things.
+Hi my name is Adrian! I'm a 24 years old FullStack Developer, im a person who loves to explore new things i don't wanna be stagnant in life. if i want something i work hard to get those things.
 
 ---
 
