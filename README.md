@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there,%20I'm%20Adrian!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descSize=18&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Adrian!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
 
 <p align="center">
@@ -60,28 +60,6 @@ I'm a 26-year-old **Full Stack Developer** based in the Philippines 🇵🇭 who
 **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,netlify,gcp,vscode,figma" alt="Tools" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ACinchez/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ACinchez&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/ACinchez/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ACinchez&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ACinchez/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ACinchez&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="Project 3"/>
-  </a>
-  <a href="https://github.com/ACinchez/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ACinchez&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="Project 4"/>
-  </a>
 </p>
 
 ---
@@ -150,7 +128,7 @@ I'm a movie enthusiast! When I'm not coding, you'll probably find me catching up
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 </p>
 
 <p align="center">
